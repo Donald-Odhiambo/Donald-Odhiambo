@@ -5,8 +5,6 @@
  Passionate about solving African problems with smart tech  
 
 
-
-
 ## My Current Journey
 
  **ALX Professional Foundations Programme (2025)**  
@@ -20,7 +18,7 @@
 - GCGOs: **Job Creation** and **Agriculture**  
 
  **University**  
-- BSc. in Applied Computer Science @ Kisii University  
+- BSc. in Applied Computer Science @ Kisii University ,Kenya 
 - Building strong foundations in C programming & system thinking
 
 
@@ -36,15 +34,7 @@
 ### Green cart App *(ALX Foundation Project)*  
 A mobile-first app to help connect young African farmers to markets and resources.  
 Built in collaboration with team **The Trailblaizers**.  
-> Focus: Problem-solving, collaboration, and pitching innovative solutions.  
-🛠 Tech: Ideation + Mobile-first thinking (Tech Stack TBD)
-
-###  Notes API *(Coming Soon)*  
-A beginner backend project using Flask and SQLite to create a simple CRUD API.
-
-###  File Organizer  
-Python script to organize files into folders by type – simple automation.
-
+> Focus: Problem-solving, collaboration, and pitching innovative solutions.
 
 ##  Motto
 
