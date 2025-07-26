@@ -44,5 +44,5 @@ Built in collaboration with team **The Trailblaizers**.
 ## Connect with Me
 
 - Email: odhiambodonald2004@gmail.com  
-- LinkedIn:  
+- LinkedIn:www.linkedin.com/in/donald-odhiambo-32039a376  
 - Your Feedback and ideas are always accepted with open arms!
