@@ -21,8 +21,7 @@ I am passionate about **building scalable, reliable, and user-centered web solut
 - **Human-Centered Design & UX Principles**  
 - **Problem Solving & Critical Thinking**  
 - **Effective Communication & Cross-Team Collaboration**  
-
----
+odhiambodonald2004@gmail.com
 
 ## 💻 Projects
 ### [Farmora Agri-commerce app https://www.figma.com/file/IF7T6TpcXN7Cq6SwQ1yl7F/Agro-Commerce-App
