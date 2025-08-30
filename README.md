@@ -16,28 +16,30 @@ I am passionate about **building scalable, reliable, and user-centered web solut
 
 ---
 
-##  Skills
-- **Backend Development:** (In Progress) 
+## 🚀 Skills
+- **Backend Development:** (In Progress)  
 - **Human-Centered Design & UX Principles**  
 - **Problem Solving & Critical Thinking**  
 - **Effective Communication & Cross-Team Collaboration**  
-odhiambodonald2004@gmail.com
+- 📧 [odhiambodonald2004@gmail.com](mailto:odhiambodonald2004@gmail.com)
+
+---
 
 ## 💻 Projects
-### [Farmora Agri-commerce app https://www.figma.com/file/IF7T6TpcXN7Cq6SwQ1yl7F/Agro-Commerce-App
+### [Farmora Agri-commerce App](https://www.figma.com/file/IF7T6TpcXN7Cq6SwQ1yl7F/Agro-Commerce-App)
 - Wireframe app to connect African farmers to markets.  
 - Applied **Human-Centered Design** principles.  
-- Skills: Wireframing, UX Design, Cross-Team Collaboration, Problem Solving.
+- Skills: Wireframing, UX Design, Cross-Team Collaboration, Problem Solving.  
 
+---
 
 ## 🌍 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/donald-odhiambo-32039a376"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:odhiambodonald2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+</p>
 
 ---
 
 ### 💪 Motto
 **“Hard times breed better men — and at ALX, we learn by doing hard things.”** 💥  
-
