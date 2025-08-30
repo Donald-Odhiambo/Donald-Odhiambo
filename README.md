@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://i.ibb.co/Y8nKZfY/tech-banner.png" alt="Tech Banner" width="100%" />
-</p>
+<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
-<h1 align="center">Hi there 👋, I’m Oketch Donald Odhiambo</h1>
+<h2 align="center">Hi there, I’m Oketch Donald Odhiambo</h2>
 <p align="center">Applied Computer Science Student | Aspiring Backend Developer & Web Security Enthusiast</p>
 
 ---
@@ -16,14 +14,15 @@ I am passionate about **building scalable, reliable, and user-centered web solut
 
 ---
 
-## 🚀 Skills
+## 🛠️ Skills I Have Gained
 - **Backend Development:** (In Progress)  
 - **Human-Centered Design & UX Principles**  
 - **Problem Solving & Critical Thinking**  
 - **Effective Communication & Cross-Team Collaboration**  
 
+---
 
-## 💻 Projects
+## 💻 My Projects
 ### [Farmora Agri-commerce App](https://www.figma.com/file/IF7T6TpcXN7Cq6SwQ1yl7F/Agro-Commerce-App)
 - Wireframe app to connect African farmers to markets.  
 - Applied **Human-Centered Design** principles.  
@@ -41,3 +40,7 @@ I am passionate about **building scalable, reliable, and user-centered web solut
 
 ### 💪 Motto
 **“Hard times breed better men — and at ALX, we learn by doing hard things.”** 💥  
+
+---
+
+<h3 align="center">🚀 Thanks for visiting my GitHub profile — let’s build something amazing together!</h3>
