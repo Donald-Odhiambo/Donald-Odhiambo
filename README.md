@@ -1,56 +1,123 @@
-<div align="center">
-  <h1>Oketch Donald Odhiambo</h1>
-  <p><strong>Cybersecurity Researcher & Offensive Security Practitioner</strong></p>
-  <p>BSc. Applied Computer Science — Kisii University | Network Exploitation & Infrastructure Auditing</p>
+ <div align="center">
 
-  <p>
-    <a href="https://www.linkedin.com/in/oketch-donald-odhiambo-0a6823429"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://doketchops.tech"><img src="https://img.shields.io/badge/Security_Lab-doketchops.tech-10b981?style=flat-square&logo=firefox-browser&logoColor=white" alt="Security Domain" /></a>
-    <a href="mailto:odhiambodonald2004@gmail.com"><img src="https://img.shields.io/badge/Email-odhiambodonald2004%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+# Oketch Donald Odhiambo
+
+### Cybersecurity | Offensive Security | Network Engineering
+
+Third-Year BSc. Applied Computer Science Student at Kisii University
+
+*Learning by building, breaking, understanding, and securing systems.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/oketch-donald-odhiambo-0a6823429)
+[![Portfolio](https://img.shields.io/badge/Portfolio-doketchops.tech-10b981?style=flat-square&logo=firefox-browser)](https://doketchops.tech)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github)](https://github.com/Donald-Odhiambo)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:odhiambodonald2004@gmail.com)
+
 </div>
 
 ---
 
-### Executive Summary
+## About Me
 
-Undergraduate in Applied Computer Science (Year 3) focused on **offensive security tradecraft, penetration testing, and network exploitation**. Experienced in setting up multi-OS virtual attack labs, deploying out-of-band telemetry nodes, and analyzing network protocols. Actively executing vulnerability assessments, engineering custom attack automation tools, and competing in Capture The Flag (CTF) challenges.
+I'm a third-year Applied Computer Science student at Kisii University with a strong interest in cybersecurity, particularly offensive security, ethical hacking, penetration testing, and network security.
 
----
+My journey into cybersecurity extends beyond university coursework. I've completed ethical hacking training at Networkwalks Academy, undertaken cybersecurity learning through ALX Africa, and gained one month of internship experience at Networkwalks Academy involving cybersecurity training and laboratory support.
 
-### Security Capabilities & Toolkit
+I also practise independently through TryHackMe labs, virtual cybersecurity environments, and personal projects. I enjoy understanding how operating systems, networks, and applications work, identifying their weaknesses, and learning how to secure them.
 
-| Offensive Vector | Tools & Technologies |
-| :--- | :--- |
-| **Web & API Penetration Testing** | Burp Suite Professional, OWASP ZAP, SQLmap, Gobuster, Ffuf, Postman |
-| **Network Auditing & Reconnaissance** | Nmap, Wireshark, Metasploit Framework, Netcat, Aircrack-ng Suite |
-| **Offensive Scripting & Tooling** | Python (Sockets, Requests, Scapy), Bash/Shell Automation, C |
-| **Adversary Emulation & OOB** | ProjectDiscovery (Interactsh, Nuclei), DNS Tunneling (dnscat2), Sliver C2 |
-| **Defensive & Lab Infrastructure** | Kali Linux, pfSense, Cloudflare Tunnels (Zero Trust), Docker, Linux Hardening |
+I'm continuously developing my technical skills and looking for opportunities to learn from experienced professionals, contribute to practical security work, and grow into a capable cybersecurity practitioner.
 
----
+## Education & Training
 
-### Offensive Security Lab & Research
+| Institution | Programme / Experience |
+|---|---|
+| Kisii University | BSc. Applied Computer Science — Year 3 |
+| Networkwalks Academy | Ethical Hacking Training |
+| Networkwalks Academy | Cybersecurity Internship — 1 month |
+| ALX Africa | Cybersecurity Training |
+| TryHackMe | Independent hands-on cybersecurity labs |
 
-#### **[doketchops.tech — Offensive Testing Infrastructure](https://doketchops.tech)**
-* Authoritative DNS callback listener and HTTP interaction node designed to catch Out-of-Band (OOB) interactions (Blind SSRF, Blind XXE, Blind RCE, and JNDI injection).
-* Deployed Cloudflare Zero Trust tunnels to isolate virtual lab nodes and target networks without exposing public inbound router ports.
-* Engineered payload staging cradles configured to restrict script delivery via User-Agent and header verification.
+## Technical Skills
 
-#### **Network Auditing & Virtual Penetration Testing Lab**
-* Built an isolated multi-node virtual target environment simulating enterprise topologies (Active Directory concepts, Linux servers, edge firewalls).
-* Executed end-to-end vulnerability assessments covering the OWASP Top 10, privilege escalation vectors (Linux SUID, cron manipulation), and internal network pivoting.
+| Area | Tools & Technologies |
+|---|---|
+| **Operating Systems** | Kali Linux, Linux, Windows 10, Windows Server |
+| **Networking** | TCP/IP, DNS, DHCP, routing, network troubleshooting, wireless networking |
+| **Reconnaissance & Scanning** | Nmap, Wireshark, Netcat |
+| **Security Testing** | Metasploit Framework, Burp Suite, OWASP ZAP |
+| **Programming & Scripting** | Python, Bash, PowerShell, C fundamentals |
+| **Virtualization & Labs** | VirtualBox, multi-VM environments, isolated security labs |
+| **Infrastructure & Security** | pfSense, Cloudflare Tunnels, Docker fundamentals |
+| **Web Security** | OWASP Top 10 fundamentals, web application testing |
+| **Tools & Platforms** | Git, GitHub, TryHackMe, Kali Linux tools |
 
----
+## Cybersecurity Projects & Practical Labs
 
-### Core Focus Areas
+### DoKetchOps — Personal Cybersecurity Portfolio
 
-* **Offensive Web Exploitation:** Deep-dive manual testing into modern authentication bypasses, IDOR, SSRF, and business logic flaws.
-* **Low-Level Protocol Analysis:** Packet inspection, 802.11 wireless auditing, and custom raw socket scripting in Python and C.
-* **Red Team Tooling:** Developing bespoke recon automation, credential sprayers, and streamlined post-exploitation enumeration scripts.
+[**doketchops.tech**](https://doketchops.tech)
 
----
+My personal cybersecurity identity and technical portfolio, where I document my learning, experiments, and security projects.
+
+- Building a platform to showcase cybersecurity projects and technical write-ups.
+- Exploring secure remote access to isolated virtual laboratory environments.
+- Learning about DNS, HTTP interactions, and network telemetry in controlled environments.
+- Documenting practical cybersecurity exercises and lessons learned.
+
+### Virtual Cybersecurity Laboratory
+
+Designed and maintained a multi-machine virtual lab using VirtualBox to practise networking, system administration, and ethical hacking.
+
+- Configured Kali Linux and Windows virtual machines.
+- Worked with Windows Server and Linux environments.
+- Practised network scanning, service enumeration, and vulnerability assessment.
+- Explored network segmentation, virtual networking, and troubleshooting.
+- Used intentionally vulnerable targets such as Metasploitable for authorised practice.
+
+### Network Reconnaissance & Analysis
+
+- Practised host discovery, port scanning, and service enumeration using Nmap.
+- Analysed network traffic and protocols using Wireshark.
+- Explored TCP/IP communication, DNS resolution, and network troubleshooting.
+- Practised security testing in controlled lab environments.
+
+### Python & Networking Projects
+
+- Developed small Python utilities for networking and security learning.
+- Explored socket programming and network communication.
+- Practised password generation and password-strength checking.
+- Worked on network information and mapping exercises.
+
+## Current Learning & Research Interests
+
+- Offensive security and penetration testing
+- Web application and API security
+- Network exploitation and infrastructure auditing
+- Linux and Windows internals
+- Active Directory security fundamentals
+- Wireless network security
+- Malware analysis
+- Security automation with Python and Bash
+- Cloud and infrastructure security
+- Capture The Flag (CTF) challenges
+
+## Beyond the Terminal
+
+I believe cybersecurity is best learned through curiosity, consistency, and practical experimentation.
+
+My long-term goal is to become a skilled offensive security professional who can identify vulnerabilities responsibly, help organisations strengthen their security, and contribute to the cybersecurity community.
+
+I'm open to:
+
+- Cybersecurity and IT infrastructure internships
+- Ethical hacking and penetration testing mentorship
+- CTF teams and collaborative security projects
+- Research collaborations and practical learning opportunities
 
 <div align="center">
-  <sub>Open to penetration testing roles, cybersecurity research collaborations, and CTF engagements.</sub>
+
+**Build. Explore. Secure. Repeat.**
+
+*Don't just use tech. Dominate it.*
+
 </div>
